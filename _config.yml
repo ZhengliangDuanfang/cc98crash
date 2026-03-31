@@ -23,7 +23,7 @@ title: CC98崩溃日志
 description: >- # this means to ignore newlines until "baseurl:"
   CC98论坛崩溃日志（非官方）
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zhengliangduanfang.github.io/cc98crash" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username: ZhengliangDuanfang
 

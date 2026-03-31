@@ -4,7 +4,7 @@ title: 关于
 permalink: /about/
 ---
 
-[CC98论坛](https://www.cc98.org/) 崩溃日志（非官方）。运营者为普通CC98用户。
+[CC98论坛](https://www.cc98.org/) 崩溃日志（非官方）。本网站运营者为普通CC98用户。
 
 使用 [jekyll][jekyll-organization] 搭建。
 

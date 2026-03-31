@@ -5,4 +5,4 @@
 layout: home
 ---
 
-欢迎为本项目提Issue。
+欢迎为[本项目](https://github.com/ZhengliangDuanfang/cc98crash)提Issue。
