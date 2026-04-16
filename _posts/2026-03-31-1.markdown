@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2026.3.31 崩溃17分钟"
+title:  "2026.3.31 崩溃"
 date:   2026-03-31 22:00:00 +0800
 categories: 98crash
 ---
