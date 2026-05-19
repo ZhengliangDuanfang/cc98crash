@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "2026.5.19 崩溃"
+date:   2026-05-19 16:00:00 +0800
+categories: 98crash
+---
+
+开始时间：2026-05-19 14:48:51 +0800 （推测，根据 [主题帖](https://www.cc98.org/topic/6510514)）
+
+结束时间：2026-05-19 15:38:56 +0800 （推测，根据 [主题帖](https://www.cc98.org/topic/6510516)）
+
+参考：[普通用户主题帖](https://www.cc98.org/topic/6510522)
+
+原因：OpenID Connect 服务故障（推测，根据 [回复](https://www.cc98.org/topic/6510522/1#9)）
+
+描述：无
